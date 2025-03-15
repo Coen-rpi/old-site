@@ -1,0 +1,147 @@
+body{
+  background: linear-gradient(rgb(116, 113, 113), rgba(131, 129, 129, 0.808));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#homeparah{ /* h and p on main page */
+  font-family: sans-serif;
+  color: white;  
+}
+
+#songbtn{
+  color: white;
+  background-color:blue;
+  padding: 10px;
+  border: 1.5px solid black;
+  border-radius: 5px;
+  width: 280px;
+}
+
+#hpbuttons{
+  color: white;
+  background-color:blue;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  width: auto;
+}
+
+.abtbox{   /* box with about me on homepage*/
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  padding: 22px;
+  margin: 10px;
+  border: 3px;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 10px;
+  background: linear-gradient(rgb(50, 50, 233), rgb(7, 165, 218));
+}
+
+.dailybox{
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  padding: 22px;
+  margin: 10px;
+  border: 3px;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 10px;
+  background: linear-gradient(rgb(50, 50, 233), rgb(7, 165, 218));
+}
+
+.weekly{
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  padding: 22px;
+  margin: 10px;
+  border: 3px;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 10px;
+  background: linear-gradient(rgb(50, 50, 233), rgb(7, 165, 218));
+}
+
+.setup{
+  width: auto;
+  height: auto;
+  display: block;
+  overflow: hidden;
+  padding: 22px;
+  margin: 10px;
+  border: 3px;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 10px;
+  background: linear-gradient(rgb(50, 50, 233), rgb(7, 165, 218));
+}
+
+.dcbot{
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  padding: 22px;
+  margin: 10px;
+  border: 3px;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 10px;
+  background: linear-gradient(rgb(50, 50, 233), rgb(7, 165, 218));
+}
+
+
+#homebtn{
+  background-color: lightblue;
+  color: rgb(34, 34, 141);
+  background-color:rgb(10, 2, 121, 0.700) ;
+  padding: 10px;
+  border: none;
+  background-color: white;
+  border-radius: 5px;
+}
+
+
+/* CSS for My-Setup */
+
+.MyPC{
+width: auto;
+height: auto;
+overflow: hidden;
+padding: 22px;
+margin: 10px;
+border: 3px;
+border-style: solid;
+border-color: blue;
+border-radius: 10px;
+background: linear-gradient(rgb(50, 50, 233), rgb(7, 165, 218));
+}
+
+.otherset{
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  padding: 22px;
+  margin: 10px;
+  border: 3px;
+  border-style: inset;
+  border-color: blue;
+  border-radius: 10px;
+  background: linear-gradient(rgb(50, 50, 233), rgb(7, 165, 218));  
+}
+
+.pi{
+width: auto;
+height: auto;
+overflow: hidden;
+padding: 22px;
+margin: 10px;
+border: 3px;
+border-style: solid;
+border-color: blue;
+border-radius: 10px;
+background: linear-gradient(rgb(50, 50, 233), rgb(7, 165, 218));
+}
